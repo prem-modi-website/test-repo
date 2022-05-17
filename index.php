@@ -1,5 +1,5 @@
 <?php
 
-echo "helo"
-
+echo "helo";
+echo "data";
 ?>
